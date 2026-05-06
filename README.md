@@ -69,7 +69,23 @@
 
 ## 📊 GitHub 统计
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JLerxky&theme=radical&hide_border=true)
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=jlerxky&show_icons=true&count_private=true&theme=transparent&title_color=39d353&icon_color=39d353&text_color=8b949e&bg_color=0d1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=jlerxky&show_icons=true&count_private=true&theme=default&title_color=1a7f37&icon_color=1a7f37">
+    <img alt="GitHub Stats" src="https://github-readme-stats-six-seven.vercel.app/api?username=jlerxky&show_icons=true&count_private=true&theme=default" height="200">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=jlerxky&layout=compact&langs_count=8&theme=transparent&title_color=39d353&text_color=8b949e&bg_color=0d1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=jlerxky&layout=compact&langs_count=8&theme=default&title_color=1a7f37">
+    <img alt="Top Languages" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=jlerxky&layout=compact&langs_count=8&theme=default" height="200">
+  </picture>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jlerxky&theme=transparent&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=39d353&currStreakNum=39d353&sideNums=8b949e&dates=8b949e&background=0d1117" alt="GitHub Streak" height="200">
+
+</div>
 
 ---
 
